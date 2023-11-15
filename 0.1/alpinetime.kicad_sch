@@ -6552,7 +6552,7 @@
     (property "Reference" "U2" (at 185.42 16.51 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "bao-lib:BQ27427" (at 185.42 19.05 0)
+    (property "Value" "BQ27427" (at 185.42 19.05 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Package_BGA:Texas_DSBGA-9_1.4715x1.4715mm_Layout3x3_P0.5mm" (at 191.77 48.26 0)
